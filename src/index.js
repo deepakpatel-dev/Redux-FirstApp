@@ -5,7 +5,7 @@ const createStore =Redux.createStore;
 
 const initialState= {
     numberOfBooks:10,
-    numberOfPens:21
+    numberOfPens:11
 }
 //Action Creator
 function buyBook(){
